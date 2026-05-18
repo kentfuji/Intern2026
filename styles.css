@@ -64,6 +64,10 @@ body::before {
   text-wrap: balance;
 }
 
+.nowrap {
+  white-space: nowrap;
+}
+
 .lead {
   margin: 28px 0 0;
   max-width: 42rem;
