@@ -58,7 +58,7 @@ body::before {
   margin: 0;
   max-width: 12ch;
   font-family: "Iowan Old Style", "Yu Mincho", "Hiragino Mincho ProN", serif;
-  font-size: 5.4rem;
+  font-size: 4.8rem;
   line-height: 0.95;
   letter-spacing: 0;
   text-wrap: balance;
@@ -170,7 +170,7 @@ main {
 .section-body h2 {
   margin: 0 0 20px;
   font-family: "Iowan Old Style", "Yu Mincho", "Hiragino Mincho ProN", serif;
-  font-size: clamp(1.7rem, 3vw, 2.5rem);
+  font-size: clamp(1.55rem, 2.5vw, 2.15rem);
   line-height: 1.2;
   font-weight: 500;
 }
@@ -331,7 +331,7 @@ main {
 
   .hero-copy h1 {
     max-width: 100%;
-    font-size: 4.4rem;
+    font-size: 3.8rem;
   }
 
   .hero-carousel {
@@ -366,7 +366,7 @@ main {
 
 @media (max-width: 520px) {
   .hero-copy h1 {
-    font-size: 3.3rem;
+    font-size: 2.9rem;
   }
 
   .lead,
